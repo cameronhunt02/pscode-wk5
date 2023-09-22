@@ -1,0 +1,16 @@
+//Exercise 1
+	int + int = sum 
+//Exercise 2
+	if (int/2) = whole number
+	then int is even else is odd
+//Exercise 3	
+	Input 5 separate numbers (1, 2, 3, 4, 5)
+	average = calculate (1+2+3+4+5)/5
+	Print "The smallest number is " min(1, 2, 3, 4, 5) and Print "The largest number is " max(1, 2, 3, 4, 5) which should be 1 and 5 respectively
+	Print ("The average is " average) which should equal 5
+	
+	
+
+	
+	
+	
